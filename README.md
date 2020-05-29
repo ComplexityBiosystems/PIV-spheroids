@@ -3,7 +3,7 @@ Matlab scripts to compute velocity/vorticity maps from time-lapse of tumor spher
 
 Copyright 2020 (c) Oleksandr Chepizhko, Caterina A. M. La Porta, Stefano Zapperi 
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License 2 as published by  the Free Software Foundation.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License 3.0 as published by  the Free Software Foundation.
     
 The scripts have been used to produce the results presented in Fig. 6 (i-k) and Extended Fig. 6 (g)
 of the manuscript:
